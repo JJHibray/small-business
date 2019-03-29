@@ -1,0 +1,103 @@
+{
+"employees":[
+    {
+    "employeeid": 1,
+    "name":"Bert"
+
+    },
+    {
+    "employeeid": 2,
+    "name":"Snaggletooth"
+    },
+    {
+    "employeeid": 3,
+    "name":"Mingus"
+    },
+    {
+    "employeeid": 4,
+    "name":"Jafar"
+    },
+    {
+    "employeeid": 5,
+    "name":"Jasmine"
+    },
+    {
+    "employeeid": 6,
+    "name":"Broomhilda"
+    }
+
+]
+,
+    "departments":[
+        {
+        "departmentid": 1,
+        "type":"Sales"
+    
+        },
+        {
+        "departmentid": 2,
+        "type":"QA"
+        },
+        {
+        "departmentid": 3,
+        "type":"Scrum Team"
+        },
+        {
+        "departmentid": 4,
+        "type":"DBA"
+        },
+        {
+        "departmentid": 5,
+        "type":"Development"
+        }
+    ]
+,
+
+    "computers":[
+        {
+        "computerid": 1,
+        "model":"PC"
+    
+        },
+        {
+        "computerid": 2,
+        "name":"Mac"
+        }
+    ]
+,
+    "workstation":[
+       {
+        "employeeid": 1,
+        "departmentid": 4,
+        "computerid": 2
+       },
+       {
+        "employeeid": 2,
+        "departmentid": 1,
+        "computerid": 2
+       },
+       {
+        "employeeid": 3,
+        "departmentid": 2,
+        "computerid": 1
+       },
+       {
+        "employeeid": 4,
+        "departmentid": 3,
+        "computerid": 2
+       },
+       {
+        "employeeid": 5,
+        "departmentid": 5,
+        "computerid": 1
+       }
+       ,
+       {
+        "employeeid": 6,
+        "departmentid": 5,
+        "computerid": 2
+       }
+    ]
+}
+    
+ 
